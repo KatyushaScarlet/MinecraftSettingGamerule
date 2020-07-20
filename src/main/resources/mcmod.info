@@ -1,0 +1,16 @@
+[
+{
+  "modid": "settinggamerule",
+  "name": "Setting Gamerule",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Katyusha"],
+  "credits": "Permanently set the gamerule for multiple worlds",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
